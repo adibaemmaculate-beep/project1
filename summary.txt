@@ -1,0 +1,11 @@
+Log Analysis Summary
+--------------------
+Total log entries: 8
+
+Event counts:
+- INFO: 4
+- ERROR: 3
+- WARNING: 1
+
+Repeated errors:
+- Database connection failed (2 occurrences)
